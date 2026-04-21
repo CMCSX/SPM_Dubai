@@ -1,0 +1,324 @@
+{
+  "en": {
+    "dir": "ltr",
+    "nav": {
+      "about": "About",
+      "services": "Services",
+      "hq": "S.P. Madrid HQ",
+      "contact": "Contact",
+      "getStarted": "Get Started"
+    },
+    "hero": {
+      "title": "Debt Recovery Solutions for the GCC",
+      "subtitle": "Built for the region. Delivered with local expertise, multilingual capability, and proven recovery performance.",
+      "cta": "Contact Us"
+    },
+    "trust": {
+      "label": "Trusted Partners",
+      "subtext": "#1 Trusted Partner for the GCC's Largest Financial Institutions"
+    },
+    "numbers": {
+      "label": "By The Numbers",
+      "heading": "Delivering results across the GCC",
+      "subtitle": "Our regional footprint and multilingual capabilities ensure every account is reached, every debtor is engaged, and every recovery is maximized.",
+      "globalAgents": "Global Agents",
+      "dubai": "Dubai, UAE",
+      "philippines": "Philippines",
+      "dubaiItems": {
+        "primary": "Primary Hub",
+        "meeting": "Meeting Zones",
+        "ops": "Ops Center",
+        "reception": "Reception"
+      },
+      "phItems": {
+        "awards": "Excellence Awards",
+        "salcedo": "Salcedo Village Hub",
+        "ops": "Ops Floor",
+        "workspaces": "Workspaces"
+      }
+    },
+    "features": {
+      "title": "Built for financial institutions",
+      "subtitle": "Comprehensive recovery solutions across secured and unsecured portfolios",
+      "secured": {
+        "title": "Secured Products",
+        "desc": "Specialized recovery for asset-backed lending across the GCC region.",
+        "items": [
+          "Housing Finance",
+          "Auto Finance",
+          "Asset-Backed Loans"
+        ],
+        "link": "Learn More →"
+      },
+      "unsecured": {
+        "title": "Unsecured Products",
+        "desc": "Expert recovery services for credit cards, personal loans, and SME financing.",
+        "items": [
+          "Credit Cards",
+          "SME Loans",
+          "Personal Loans",
+          "Buy Now Pay Later"
+        ],
+        "link": "Learn More →"
+      },
+      "audit": {
+        "title": "Audit Recovery",
+        "desc": "Advanced portfolio analysis and write-off recovery across all asset classes.",
+        "items": [
+          "Portfolio Analysis",
+          "Write-off Recovery",
+          "Skip Tracing"
+        ],
+        "link": "Learn More →"
+      },
+      "international": {
+        "title": "Local & International Accounts",
+        "desc": "Comprehensive account management extending across domestic borders and overseas jurisdictions.",
+        "items": [
+          "Local UAE Collections",
+          "GCC-Wide Recovery",
+          "International Enforcement"
+        ],
+        "link": "Learn More →"
+      }
+    },
+    "team": {
+      "title": "Meet the Team",
+      "subtitle": "Our dedicated team consists of experts across engineering and strategy, each committed to driving results and innovation.",
+      "members": {
+        "ian": {
+          "badge": "15+ Years Experience",
+          "role": "CEO, S.P. Madrid",
+          "name": "Ian Madrid",
+          "bio": "Visionary leader driving S.P. Madrid's recovery excellence across the GCC with over 15 years of strategic and operational expertise."
+        },
+        "anita": {
+          "badge": "16+ Years Experience",
+          "role": "Business Unit Director",
+          "name": "Anita",
+          "bio": "Leads business development and client partnerships with deep expertise in financial recovery and stakeholder relations."
+        },
+        "mubarak": {
+          "badge": "20+ Years Experience",
+          "role": "Executive Director",
+          "name": "Mubarak",
+          "bio": "Oversees executive operations and strategic initiatives, ensuring seamless delivery across all recovery mandates."
+        },
+        "ivy": {
+          "badge": "15+ Years Experience",
+          "role": "Operations Manager",
+          "name": "Ivy",
+          "bio": "Manages day-to-day operations and process optimization, ensuring efficiency and quality across all projects."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Data Privacy & Regulatory Compliance",
+      "dataProtection": {
+        "title": "Data Protection",
+        "desc": "Enterprise-grade encryption and data handling aligned with DIFC and ADGM standards."
+      },
+      "regulatory": {
+        "title": "Regulatory Adherence",
+        "desc": "Full compliance with UAE Central Bank guidelines, PDPL, and regional regulatory frameworks."
+      },
+      "audit": {
+        "title": "Audit Ready",
+        "desc": "Comprehensive audit trails and documentation for all recovery activities and communications."
+      }
+    },
+    "footer": {
+      "cta": {
+        "title": "Ready to elevate your collection strategy?",
+        "subtitle": "Partner with SPM Dubai to optimize your receivables and protect your assets."
+      },
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "submit": "Get in Touch →",
+        "note": "Or email us directly at"
+      },
+      "brand": "Premier debt recovery and legal services across the GCC and MENA region.",
+      "vision": "Vision",
+      "visionText": "To be the Nationwide leader in banking collections, setting the standard for excellence, security, and scalability in the global BPO industry.",
+      "mission": "Mission",
+      "missionText": "The company's mission is to Find, Train, and Change the lives of people.",
+      "missionDetail": "This focuses on identifying talent, providing rigorous training in collection skills, and offering long-term career stability to transform the financial and professional lives of their employees.",
+      "services": "Services",
+      "securedRecovery": "Secured Recovery",
+      "unsecuredRecovery": "Unsecured Recovery",
+      "legalServices": "Legal Services",
+      "auditRecovery": "Audit Recovery",
+      "company": "Company",
+      "aboutUs": "About Us",
+      "careers": "Careers",
+      "contactLink": "Contact",
+      "dubaiHub": "Dubai Hub",
+      "copyright": "© 2026 S.P. Madrid Dubai. All rights reserved. Licensed in UAE.",
+      "privacyPolicy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "ar": {
+    "dir": "rtl",
+    "nav": {
+      "about": "حول",
+      "services": "الخدمات",
+      "hq": "المقر الرئيسي",
+      "contact": "اتصل بنا",
+      "getStarted": "ابدأ الآن"
+    },
+    "hero": {
+      "title": "حلول تحصيل الديون لدول مجلس التعاون الخليجي",
+      "subtitle": "مصممة للمنطقة. يتم تقديمها بخبرة محلية وقدرات متعددة اللغات وأداء تحصيل مثبت.",
+      "cta": "اتصل بنا"
+    },
+    "trust": {
+      "label": "شركاء موثوقون",
+      "subtext": "الشريك الموثوق رقم 1 لأكبر المؤسسات المالية في دول مجلس التعاون الخليجي"
+    },
+    "numbers": {
+      "label": "بالأرقام",
+      "heading": "تقديم النتائج في جميع أنحاء دول مجلس التعاون الخليجي",
+      "subtitle": "تضمن بصمتنا الإقليمية وقدراتنا المتعددة اللغات الوصول إلى كل حساب والتفاعل مع كل مدين وتعظيم كل عملية تحصيل.",
+      "globalAgents": "وكلاء عالميون",
+      "dubai": "دبي، الإمارات",
+      "philippines": "الفلبين",
+      "dubaiItems": {
+        "primary": "المركز الرئيسي",
+        "meeting": "مناطق الاجتماعات",
+        "ops": "مركز العمليات",
+        "reception": "الاستقبال"
+      },
+      "phItems": {
+        "awards": "جوائز التميز",
+        "salcedo": "مركز سالسيدو فيليج",
+        "ops": "طابق العمليات",
+        "workspaces": "مساحات العمل"
+      }
+    },
+    "features": {
+      "title": "مصممة للمؤسسات المالية",
+      "subtitle": "حلول تحصيل شاملة عبر المحافظ المضمونة وغير المضمونة",
+      "secured": {
+        "title": "المنتجات المضمونة",
+        "desc": "تحصيل متخصص للإقراض المدعوم بالأصول في منطقة دول مجلس التعاون الخليجي.",
+        "items": [
+          "تمويل الإسكان",
+          "تمويل السيارات",
+          "القروض المدعومة بالأصول"
+        ],
+        "link": "← اعرف المزيد"
+      },
+      "unsecured": {
+        "title": "المنتجات غير المضمونة",
+        "desc": "خدمات تحصيل متخصصة لبطاقات الائتمان والقروض الشخصية وتمويل الشركات الصغيرة.",
+        "items": [
+          "بطاقات الائتمان",
+          "قروض الشركات الصغيرة",
+          "القروض الشخصية",
+          "اشترِ الآن وادفع لاحقاً"
+        ],
+        "link": "← اعرف المزيد"
+      },
+      "audit": {
+        "title": "تحصيل المراجعة",
+        "desc": "تحليل متقدم للمحافظ واسترداد الشطب عبر جميع فئات الأصول.",
+        "items": [
+          "تحليل المحافظ",
+          "استرداد الشطب",
+          "تتبع التهرب"
+        ],
+        "link": "← اعرف المزيد"
+      },
+      "international": {
+        "title": "الحسابات المحلية والدولية",
+        "desc": "إدارة حسابات شاملة تمتد عبر الحدود المحلية والولايات القضائية الخارجية.",
+        "items": [
+          "التحصيل المحلي في الإمارات",
+          "التحصيل في دول الخليج",
+          "الإنفاذ الدولي"
+        ],
+        "link": "← اعرف المزيد"
+      }
+    },
+    "team": {
+      "title": "تعرّف على الفريق",
+      "subtitle": "يتكون فريقنا المتفاني من خبراء في الهندسة والاستراتيجية، كل منهم ملتزم بتحقيق النتائج والابتكار.",
+      "members": {
+        "ian": {
+          "badge": "15+ سنة خبرة",
+          "role": "الرئيس التنفيذي، S.P. Madrid",
+          "name": "إيان مدريد",
+          "bio": "قائد ذو رؤية يقود تميز S.P. Madrid في التحصيل عبر دول مجلس التعاون الخليجي مع أكثر من 15 عامًا من الخبرة الاستراتيجية والتشغيلية."
+        },
+        "anita": {
+          "badge": "16+ سنة خبرة",
+          "role": "مديرة وحدة الأعمال",
+          "name": "أنيتا",
+          "bio": "تقود تطوير الأعمال وشراكات العملاء مع خبرة عميقة في الاسترداد المالي وعلاقات أصحاب المصلحة."
+        },
+        "mubarak": {
+          "badge": "20+ سنة خبرة",
+          "role": "المدير التنفيذي",
+          "name": "مبارك",
+          "bio": "يشرف على العمليات التنفيذية والمبادرات الاستراتيجية، مما يضمن التسليم السلس عبر جميع تفويضات الاسترداد."
+        },
+        "ivy": {
+          "badge": "15+ سنة خبرة",
+          "role": "مديرة العمليات",
+          "name": "آيفي",
+          "bio": "تدير العمليات اليومية وتحسين العمليات، مما يضمن الكفاءة والجودة في جميع المشاريع."
+        }
+      }
+    },
+    "privacy": {
+      "title": "خصوصية البيانات والامتثال التنظيمي",
+      "dataProtection": {
+        "title": "حماية البيانات",
+        "desc": "تشفير على مستوى المؤسسات ومعالجة بيانات متوافقة مع معايير مركز دبي المالي العالمي وسوق أبوظبي العالمي."
+      },
+      "regulatory": {
+        "title": "الالتزام التنظيمي",
+        "desc": "الامتثال الكامل لإرشادات البنك المركزي الإماراتي وقانون حماية البيانات الشخصية والأطر التنظيمية الإقليمية."
+      },
+      "audit": {
+        "title": "جاهز للتدقيق",
+        "desc": "مسارات تدقيق شاملة ووثائق لجميع أنشطة التحصيل والاتصالات."
+      }
+    },
+    "footer": {
+      "cta": {
+        "title": "هل أنت مستعد لرفع مستوى استراتيجية التحصيل الخاصة بك؟",
+        "subtitle": "تشارك مع SPM دبي لتحسين مستحقاتك وحماية أصولك."
+      },
+      "form": {
+        "name": "الاسم",
+        "email": "البريد الإلكتروني",
+        "message": "الرسالة",
+        "submit": "← تواصل معنا",
+        "note": "أو راسلنا مباشرة على"
+      },
+      "brand": "خدمات تحصيل الديون والخدمات القانونية الرائدة في دول مجلس التعاون الخليجي ومنطقة الشرق الأوسط وشمال أفريقيا.",
+      "vision": "الرؤية",
+      "visionText": "أن نكون الرائد الوطني في تحصيل البنوك، ووضع معيار التميز والأمان وقابلية التوسع في صناعة التعهيد العالمية.",
+      "mission": "المهمة",
+      "missionText": "مهمة الشركة هي البحث والتدريب وتغيير حياة الناس.",
+      "missionDetail": "يركز هذا على تحديد المواهب وتوفير تدريب صارم في مهارات التحصيل وتقديم استقرار وظيفي طويل الأمد لتحويل الحياة المالية والمهنية لموظفيهم.",
+      "services": "الخدمات",
+      "securedRecovery": "الاسترداد المضمون",
+      "unsecuredRecovery": "الاسترداد غير المضمون",
+      "legalServices": "الخدمات القانونية",
+      "auditRecovery": "استرداد التدقيق",
+      "company": "الشركة",
+      "aboutUs": "من نحن",
+      "careers": "الوظائف",
+      "contactLink": "اتصل بنا",
+      "dubaiHub": "مركز دبي",
+      "copyright": "© 2026 S.P. Madrid دبي. جميع الحقوق محفوظة. مرخصة في الإمارات.",
+      "privacyPolicy": "سياسة الخصوصية",
+      "terms": "شروط الخدمة"
+    }
+  }
+}
